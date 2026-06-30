@@ -1,5 +1,7 @@
-.claude
+.claude/
 
-.idea
+.idea/
+
+__pycache__/
 
 CLAUDE.md
