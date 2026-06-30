@@ -1,0 +1,903 @@
+{
+  "bvid": "BV1sfHPevExh",
+  "aid": 113060064789907,
+  "videos": 50,
+  "tid": 193,
+  "tid_v2": 2020,
+  "tname": "",
+  "tname_v2": "",
+  "copyright": 1,
+  "pic": "http://i2.hdslb.com/bfs/archive/c7cf2ceaaf59c77cfa7ec8560c096282dedf94de.jpg",
+  "title": "50 首绝不输原唱的超火翻唱，燃爆听觉！你初闻这些歌时是原唱版本还是翻唱版本",
+  "pubdate": 1725624004,
+  "ctime": 1725159846,
+  "desc": "当熟悉的旋律以新的面貌响起，一场听觉盛宴就此拉开帷幕。这里有超火的翻唱歌曲，它们在网络的浪潮中异军突起，迅速抓住了无数人的耳朵。歌手们以精湛的唱功和独特的风格，将经典与流行完美融合。这些翻唱作品有的充充力量，让人热血沸腾；有的细腻动人，令人潸然泪下。跟随着这些超火的翻唱歌曲，一同踏上一段充满惊喜与感动的音乐之旅。",
+  "desc_v2": [
+    {
+      "raw_text": "当熟悉的旋律以全新的面貌响起，一场听觉盛宴就此拉开帷幕。这里有超火的翻唱歌曲，它们在网络的浪潮中异军突起，迅速抓住了无数人的耳朵。歌手们以精湛的唱功和独特的风格，将经典与流行完美融合。这些翻唱作品有的充满力量，让人热血沸腾；有的细腻人，令人潸然泪下。跟随着这些超火的翻唱歌曲，一同踏上一段充满惊喜与感动的音乐之旅。",
+      "type": 1,
+      "biz_id": 0
+    }
+  ],
+  "state": 0,
+  "duration": 12655,
+  "rights": {
+    "bp": 0,
+    "elec": 0,
+    "download": 1
+    1,
+    "movie": 0,
+    "pay": 0,
+    "hd5": 0,
+    "no_reprint": 1,
+    "autoplay": 0,
+    "ugc_pay": 0,
+    "is_cooperation": 0,
+    "ugc_pay_preview": 0,
+    "no_background": 0,
+    "clean_mode": 0,
+    "is_stein_gate": 0,
+    "is_360": 0,
+    "no_share": 0,
+    "arc_pay": 0,
+    "free_watch": 0
+  },
+  "owner": {
+    "mid": 3493140210125128,
+    "name": "音符拾光",
+    "face": "https://i1.hdslb.com/bfs/face/2ac7a3780d48d1ed5a5cf00927dae68b5c9e436d.jpg"
+  },
+  "stat": {
+    "aid": 113060064789907,
+    "view": 365774,
+    "danmaku": 50,
+    "reply": 21,
+    "favorite": 1335,
+    "coin": 201,
+    "share": 86,
+    "now_rank": 0,
+    "his_rank": 0,
+    "like": 504,
+    "dislike": 0,
+    "evaluation": "",
+    "vt": 0
+  },
+  "argue_info": {
+    "argue_msg": "",
+    "argue_type": 0,
+    "argue_link": ""
+  },
+  "dynamic": "",
+  "cid": 25745689548,
+  "dimension": {
+    "width": 1920,
+    "height": 1080,
+    "rotate": 0
+  },
+  "premiere": null,
+  "teenage_mode": 0,
+  "is_chargeable_season": false,
+  "is_story": false,
+  "is_upower_exclusive": false,
+  "is_upower_play": false,
+  "is_upower_preview": false,
+  "enable_vt": 0,
+  "vt_display": "",
+  "is_upower_exclusive_with_qa": false,
+  "no_cache": true,
+  "pages": [
+    {
+      "cid": 25745689548,
+      "page": 1,
+      "from": "vupload",
+      "part": "童话镇 - 陈一发儿（原唱：暗杠）",
+      "duration": 260,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i0.hdslb.com/bfs/storyff/n240905sac8swtft2qawr22fz2prrxsn_firsti.jpg",
+      "ctime": 1725511308
+    },
+    {
+      "cid": 25745360708,
+      "page": 2,
+      "from": "vupload",
+      "part": "暮色回响 - 张韶涵（原唱：吉星出租）",
+      "duration": 182,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i2.hdslb.com/bfs/storyff/n240905sa27elnb9n9m3im1hoio55q46_firsti.jpg",
+      "ctime": 1725511308
+    },
+    {
+      "cid": 25688739749,
+      "page": 3,
+      "from": "vupload",
+      "part": "永不失联的爱 - 单依纯（原唱：周兴哲）",
+      "duration": 264,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i1.hdslb.com/bfs/storyff/n240901sa3dw8f2sc6y7f03fz74u55v0_firsti.jpg",
+      "ctime": 1725181062
+    },
+    {
+      "cid": 25740839991,
+      "page": 4,
+      "from": "vupload",
+      "part": "水中花 - 郁可唯（原唱：谭咏麟）",
+      "duration": 211,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i1.hdslb.com/bfs/storyff/n240905sa121ef8qrpoqv73zm1hawsje_firsti.jpg",
+      "ctime": 1725469050
+    },
+    {
+      "cid": 25688736784,
+      "page": 5,
+      "from": "vupload",
+      "part": "化风行万里 - 云朵（原唱：大欢）",
+      "duration": 245,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i0.hdslb.com/bfs/storyff/n240901sa3gu0tobycbghl3rwphtwhpz_firsti.jpg",
+      "ctime": 1725181062
+    },
+    {
+      "cid": 25687755330,
+      "page": 6,
+      "from": "vupload",
+      "part": "其实都没有 - 于冬然（原唱：杨宗纬）",
+      "duration": 223,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i2.hdslb.com/bfs/storyff/n240901sa2lqnky098qb72rhxmjlsnds_firsti.jpg",
+      "ctime": 1725177759
+    },
+    {
+      "cid": 25686510267,
+      "page": 7,
+      "from": "vupload",
+      "part": "春庭雪 - 等什么君(邓寓君)（原唱：橙翼）",
+      "duration": 237,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i2.hdslb.com/bfs/storyff/n240901sarsey6tdlnw551r4uyxaucf6_firsti.jpg",
+      "ctime": 1725170991
+    },
+    {
+      "cid": 25686507750,
+      "page": 8,
+      "from": "vupload",
+      "part": "对你说 - 半吨兄弟（原唱：王铮）",
+      "duration": 243,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i1.hdslb.com/bfs/storyff/n240901sa2edoze4s39cc6298nyv4lur_firsti.jpg",
+      "ctime": 1725170991
+    },
+    {
+      "cid": 25688541023,
+      "page": 9,
+      "from": "vupload",
+      "part": "起风了 - 周深（原唱：买辣椒也用券）",
+      "duration": 309,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i1.hdslb.com/bfs/storyff/n240901sa1rg68crxqbrfb1wyn0n3bcy_firsti.jpg",
+      "ctime": 1725179870
+    },
+    {
+      "cid": 25687691072,
+      "page": 10,
+      "from": "vupload",
+      "part": "重生之我在异乡为异客 - 王睿卓（原：杨坤）",
+      "duration": 158,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i1.hdslb.com/bfs/storyff/n240901sarz7ltomy6tm83drb bnhfrc4d_firsti.jpg",
+      "ctime": 1725177759
+    },
+    {
+      "cid": 25685985892,
+      "page": 11,
+      "from": "vupload",
+      "part": "秒针 - 阿梨粤&R7（原唱：李克勤&王赫野）",
+      "duration": 179,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i1.hdslb.com/bfs/storyff/n240901sa8aiq4i8s9p2q1g3mmdlhfsx_firsti.jpg",
+      "ctime": 1725168415
+    },
+    {
+      "cid": 25687753999,
+      "page": 12,
+      "from": "vupload",
+      "part": "诺言 - 郭有才（原唱：李翊君）",
+      "duration": 294,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i1.hdslb.com/bfs/storyff/n240901sa8hsg09gfrv8g17ggv5g4nie_firsti.jpg",
+      "ctime": 1725177759
+    },
+    {
+      "cid": 25729499451,
+      "page": 13,
+      "from": "vupload",
+      "part": "离人 - 林志炫（原唱：张学友）",
+      "duration": 293,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i1.hdslb.com/bfs/storyff/n240904sa3u6uj7584ki6p3lig7fmuc2_firsti.jpg",
+      "ctime": 1725419616
+    },
+    {
+      "cid": 25698109399,
+      "page": 14,
+      "from": "vupload",
+      "part": "光明 - 谭艳（原唱：汪峰）",
+      "duration": 323,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i1.hdslb.com/bfs/storyff/n240902sa30vj5o3fwx3i20qlp063pv2_firsti.jpg",
+      "ctime": 1725241026
+    },
+    {
+      "cid": 25688081479,
+      "page": 15,
+      "from": "vupload",
+      "part": "传奇 - 王菲（原唱：李健）",
+      "duration": 289,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i0.hdslb.com/bfs/storyff/n240901sa3ljiou9d1vv4o1h7udif3w3_firsti.jpg",
+      "ctime": 1725178920
+    },
+    {
+      "cid": 25686246721,
+      "page": 16,
+      "from": "vupload",
+      "part": "追梦人 - 阿木（原唱：凤飞飞）",
+      "duration": 258,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i1.hdslb.com/bfs/storyff/n240901sa1u207v5c06v773lrvjbled7_firsti.jpg",
+      "ctime": 1725169281
+    },
+    {
+      "cid": 25729499374,
+      "page": 17,
+      "from": "vupload",
+      "part": "南山南 - 张磊（原唱：马頔）",
+      "duration": 234,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i2.hdslb.com/bfs/storyff/n240904sa2mdwyecvz3vf92xorcon5vw_firsti.jpg",
+      "ctime": 1725419616
+    },
+    {
+      "cid": 25729566476,
+      "page": 18,
+      "from": "vupload",
+      "part": "桥边姑娘 - 兔子牙（原唱：海伦）",
+      "duration": 181,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i2.hdslb.com/bfs/storyff/n240904sabedwimqj8mbq2prh80us3m3_firsti.jpg",
+      "ctime": 1725419616
+    },
+    {
+      "cid": 25729698052,
+      "page": 19,
+      "from": "vupload",
+      "part": "不该用情 - 莫叫姐姐（原唱：说理哥）",
+      "duration": 230,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i2.hdslb.com/bfs/storyff/n240904sa2tx3roevw91w3r0sjvjparh_firsti.jpg",
+      "ctime": 1725420477
+    },
+    {
+      "cid": 25698569388,
+      "page": 20,
+      "from": "vupload",
+      "part": "暗里着迷 - 吉他的天空（原唱：刘德华）",
+      "duration": 235,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i0.hdslb.com/bfs/storyff/n240902sa2ds30zx6p6qzywzfjcfief4_firsti.jpg",
+      "ctime": 1725243309
+    },
+    {
+      "cid": 25686706408,
+      "page": 21,
+      "from": "vupload",
+      "part": "烟雨唱扬州 - 葛漂亮（原唱：李殊）",
+      "duration": 195,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i0.hdslb.com/bfs/storyff/n240901sa506skhshgqufh8vi91ll74y_firsti.jpg",
+      "ctime": 1725171528
+    },
+    {
+      "cid": 25688280776,
+      "page": 22,
+      "from": "vupload",
+      "part": "我的心里只有你没有他 - 李宇春（原唱：黄小琥）",
+      "duration": 271,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i2.hdslb.com/bfs/storyff/n240901sa1g54sfv2sgkhv12tbsjymsi_firsti.jpg",
+      "ctime": 1725178920
+    },
+    {
+      "cid": 25688935267,
+      "page": 23,
+      "from": "vupload",
+      "part": "太想念 - 豆包（原唱：彭筝）",
+      "duration": 229,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i0.hdslb.com/bfs/storyff/n240901sa289bpwsn2l5zd38ac2zm3ow_firsti.jpg",
+      "ctime": 1725181853
+    },
+    {
+      "cid": 25740248652,
+      "page": 24,
+      "from": "vupload",
+      "part": "漂洋过海来看你 - 刘明湘（原唱：娃娃）",
+      "duration": 300,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i1.hdslb.com/bfs/storyff/n240904sa29e89ii7tcbhn14uu5oypj0_firsti.jpg",
+      "ctime": 1725466943
+    },
+    {
+      "cid": 25740446273,
+      "page": 25,
+      "from": "vupload",
+      "part": "爱似水仙 -半吨兄弟&张茜（原唱：金海心）",
+      "duration": 237,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i2.hdslb.com/bfs/storyff/n240905sa3smsyjqptep1l2spdhknfyx_firsti.jpg",
+      "ctime": 1725466943
+    },
+    {
+      "cid": 25686509644,
+      "page": 26,
+      "from": "vupload",
+      "part": "乌兰巴托的夜 - 丹正母子（原唱：安来宁）",
+      "duration": 192,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i0.hdslb.com/bfs/storyff/n240901safm8miqk8lsl3cq30hr2xfhq_firsti.jpg",
+      "ctime": 1725170991
+    },
+    {
+      "cid": 25688280156,
+      "page": 27,
+      "from": "vupload",
+      "part": "天路 - 韩红（原唱：巴桑）",
+      "duration": 267,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i1.hdslb.com/bfs/storyff/n240901sa23f1hgw3wb2m2c8iyvhy5ny_firsti.jpg",
+      "ctime": 1725178920
+    },
+    {
+      "cid": 25740511190,
+      "page": 28,
+      "from": "vupload",
+      "part": "记事本 - 周传雄（原唱：陈慧琳）",
+      "duration": 265,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i0.hdslb.com/bfs/storyff/n240905sa1g2krcqfzxc563orb47gw17_firsti.jpg",
+      "ctime": 1725467377
+    },
+    {
+      "cid": 25745621253,
+      "page": 29,
+      "from": "vupload",
+      "part": "喜欢你 - 邓紫棋（原唱：BEYOND）",
+      "duration": 270,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i1.hdslb.com/bfs/storyff/n240905sa19swsjndw36kj1jy5zoci5r_firsti.jpg",
+      "ctime": 1725511308
+    },
+    {
+      "cid": 25688411362,
+      "page": 30,
+      "from": "vupload",
+      "part": "当你孤单你会想起谁 - 张栋梁（原唱：新少年俱乐部）",
+      "duration": 289,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i1.hdslb.com/bfs/storyff/n240901sa1ism0ataqhh4z3nuzqgqjml_firsti.jpg",
+      "ctime": 1725179870
+    },
+    {
+      "cid": 25688473770,
+      "page": 31,
+      "from": "vupload",
+      "part": "你是我的眼 - 林宥嘉（原唱：萧煌奇）",
+      "duration": 284,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1440,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i2.hdslb.com/bfs/storyff/n240901sa3kof0h5xzj1zb34fuwxagw9_firsti.jpg",
+      "ctime": 1725179870
+    },
+    {
+      "cid": 25771116512,
+      "page": 32,
+      "from": "vupload",
+      "part": "再回首 - 姜育恒（原唱：苏芮）",
+      "duration": 251,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1440,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i1.hdslb.com/bfs/storyff/n240907sa2zzo1anndvied10xd63fr6u_firsti.jpg",
+      "ctime": 1725684620
+    },
+    {
+      "cid": 25686576590,
+      "page": 33,
+      "from": "vupload",
+      "part": "有多少爱可以重来 - 迪克牛仔（原唱：黄仲昆）",
+      "duration": 311,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1440,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i0.hdslb.com/bfs/storyff/n240901sa2cekw680h2kdl2frp1jrytw_firsti.jpg",
+      "ctime": 1725170991
+    },
+    {
+      "cid": 25688343982,
+      "page": 34,
+      "from": "vupload",
+      "part": "阿刁 - 张韶涵（原唱：赵雷）",
+      "duration": 321,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i1.hdslb.com/bfs/storyff/n240901sa2dnxzxebcbxodey9sy8iuyi_firsti.jpg",
+      "ctime": 1725178920
+    },
+    {
+      "cid": 25688410198,
+      "page": 35,
+      "from": "vupload",
+      "part": "笑看风云 - 汪小敏（原唱：郑少秋）",
+      "duration": 220,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i1.hdslb.com/bfs/storyff/n240901sal60fxf5n4ocnp5o0kci8w5q_firsti.jpg",
+      "ctime": 1725179870
+    },
+    {
+      "cid": 25688672036,
+      "page": 36,
+      "from": "vupload",
+      "part": "说散就散 - 袁娅维（原唱：陈泳彤）",
+      "duration": 243,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i0.hdslb.com/bfs/storyff/n240901sa3e05h4kphlnmurx36h88io7_firsti.jpg",
+      "ctime": 1725180579
+    },
+    {
+      "cid": 25688803122,
+      "page": 37,
+      "from": "vupload",
+      "part": "对面的女孩看过来 - 任贤齐（原唱：阿牛）",
+      "duration": 195,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1440,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i1.hdslb.com/bfs/storyff/n240901sa1lybstehpdqvc110h763xv4_firsti.jpg",
+      "ctime": 1725181853
+    },
+    {
+      "cid": 25686052327,
+      "page": 38,
+      "from": "vupload",
+      "part": "爱笑的眼睛 - 林俊杰（原唱：徐若瑄）",
+      "duration": 256,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1440,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i1.hdslb.com/bfs/storyff/n240901sa1oem9jwqqwqsn3l9uxpx2su_firsti.jpg",
+      "ctime": 1725168415
+    },
+    {
+      "cid": 25684346668,
+      "page": 39,
+      "from": "vupload",
+      "part": "你不是真正的快乐 - 邓紫棋（原唱：五月天）",
+      "duration": 344,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i1.hdslb.com/bfs/storyff/n240901sa12ffd6fbwgpi12q67t5xr9y_firsti.jpg",
+      "ctime": 1725161996
+    },
+    {
+      "cid": 26642548695,
+      "page": 40,
+      "from": "vupload",
+      "part": "当你老了 - 莫文蔚（原唱：赵照）",
+      "duration": 194,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i0.hdslb.com/bfs/storyff/n241106sa2xvx64lhcg2bm2vjyjmttfi_firsti.jpg",
+      "ctime": 1730893087
+    },
+    {
+      "cid": 25728978795,
+      "page": 41,
+      "from": "vupload",
+      "part": "新不了情 -萧敬腾（原唱：万芳）",
+      "duration": 273,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i0.hdslb.com/bfs/storyff/n240904sa3ei165mcv0ahof3k7shew6t_firsti.jpg",
+      "ctime": 1725417110
+    },
+    {
+      "cid": 25728978541,
+      "page": 42,
+      "from": "vupload",
+      "part": "化身孤岛的鲸 - 周深（原唱：谢安琪）",
+      "duration": 277,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i0.hdslb.com/bfs/storyff/n240904sa1ppicjdey1fmk1qff72zkf1_firsti.jpg",
+      "ctime": 1725417110
+    },
+    {
+      "cid": 25740183073,
+      "page": 43,
+      "from": "vupload",
+      "part": "我不后悔 - 郑源（原唱：林志颖）",
+      "duration": 246,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1440,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i2.hdslb.com/bfs/storyff/n240904sa1cvna8bhclqaj3g8g8hwk5v_firsti.jpg",
+      "ctime": 1725466943
+    },
+    {
+      "cid": 25728976570,
+      "page": 44,
+      "from": "vupload",
+      "part": "突然的自- 伍佰（原唱：黄小琥）",
+      "duration": 217,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1440,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i1.hdslb.com/bfs/storyff/n240904sa1 1xs5g46okonkn1vr02kqt0i_firsti.jpg",
+      "ctime": 1725417110
+    },
+    {
+      "cid": 25745886210,
+      "page": 45,
+      "from": "vupload",
+      "part": "西楼儿女 - 岳云鹏（原唱：海来阿木）",
+      "duration": 257,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i2.hdslb.com/bfs/storyff/n240905samyskqih18mbr33bmy53i3w4_firsti.jpg",
+      "ctime": 1725512144
+    },
+    {
+      "cid": 25740250237,
+      "page": 46,
+      "from": "vupload",
+      "part": "心雨 - 毛宁&杨钰莹（原唱：李碧华）",
+      "duration": 275,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1440,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i2.hdslb.com/bfs/storyff/n240905sa12067qyj559f974751dmr3x_firsti.jpg",
+      "ctime": 1725466943
+    },
+    {
+      "cid": 25745624315,
+      "page": 47,
+      "from": "vupload",
+      "part": "外面的世界 - 莫文蔚（原唱：齐秦）",
+      "duration": 275,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1440,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i2.hdslb.com/bfs/storyff/n26j5ku1dbwhrck89_firsti.jpg",
+      "ctime": 1725511308
+    },
+    {
+      "cid": 25740378585,
+      "page": 48,
+      "from": "vupload",
+      "part": "思念是一种病 - 张震岳（原唱：齐秦）",
+      "duration": 289,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i0.hdslb.com/bfs/storyff/n240905sa2yif0zjw4rx1e1sosgbkodi_firsti.jpg",
+      "ctime": 1725466943
+    },
+    {
+      "cid": 25740379021,
+      "page": 49,
+      "from": "vupload",
+      "part": "我们都一样 - 张杰（原唱：曹轩宾）",
+      "duration": 348,
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i0.hdslb.slb.com/bfs/storyff/n240905saqxeyatmpeky318f2dzjhznx_firsti.jpg",
+      "ctime": 1725466943
+    },
+    {
+      "cid": 25728976105,
+      "page": 50,
+      "from": "vupload",
+      "part": "月亮代表我的心-邓丽君（原唱：陈芬兰）",
+      "vid": "",
+      "weblink": "",
+      "dimension": {
+        "width": 1920,
+        "height": 1080,
+        "rotate": 0
+      },
+      "first_frame": "http://i2.hdslb.com/bfs/storyff/n240904sa1z7sfhjp0yd962v83uoxzrg_firsti.jpg",
+      "ctime": 1725417110
+    }
+  ],
+  "subtitle": {
+    "allow_submit": false,
+    "list": []
+  },
+  "is_season_display": false,
+  "user_garb": {
+    "url_image_ani_cut": ""
+  },
+  "honor_reply": {},
+  "like_icon": "",
+  "need_jump_bv": false,
+  "disable_show_up_info": false,
+  "is_story_play": 0,
+  "is_view_self": false
+}
